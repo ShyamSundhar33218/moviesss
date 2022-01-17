@@ -1,49 +1,4 @@
-/*----------------------------------------
-[Master Stylesheet]
 
-Project:	HotFlix
-Version:	2.1
-Primary use:	HotFlix Template
-----------------------------------------*/
-
-/*----------------------------------------
-[Table of contents]
-
-1. Header
-2. Home
-3. Content
-4. Section
-5. Breadcrumb
-6. Card
-7. Catalog
-8. Filter
-9. Paginator
-10. Profile
-11. Stats
-12. Dashbox
-13. Price
-14. Main
-15. FAQ
-16. Feature
-17. How
-18. Partners
-19. Contacts
-20. Form
-21. Comments
-22. Reviews
-23.	Gallery
-24. Footer
-25. Sign
-26. Page 404
-27. Modal
-28. Plyr customization
-29. PhotoSwipe customization
-30. mCustomScrollbar customization
-----------------------------------------*/
-
-/*==============================
-	Fonts
-==============================*/
 
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600");
 /*==============================
@@ -259,7 +214,7 @@ ul {
 }
 
 .header__logo img {
-    width: 100%;
+    width: 250px;
     display: block;
 }
 
